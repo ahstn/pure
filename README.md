@@ -24,9 +24,10 @@ tweaks.
 ### [zplug](https://github.com/zplug/zplug)
 
 Update your `.zshrc` file with the following line:
+(This repo removes the need for both `async` and `crisp` while maintaining functionality)
 
 ```sh
-zplug sindresorhus/pure, use:pure.zsh, from:github, as:theme
+zplug "ahstn/crisp", use:crisp.zsh, from:github, as:theme
 ```
 
 [sindresorhus/pure]: https://github.com/sindresorhus/pure
