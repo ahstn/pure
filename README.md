@@ -9,6 +9,8 @@ looking, minimal prompt out there. As pointed in the [pure/readme.md] it makes a
 excellent starting point for a custom, personal prompt and I had a few desired
 tweaks.
 
+<img src=".github/screenshot.png" width="864">
+
 ### Features
 
 - Shows full current path, unless in a `git` repo where only the repo name is shown.
